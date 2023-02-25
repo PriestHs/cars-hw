@@ -1,2 +1,1 @@
-## [Сайт](https://priesths.github.io/cars-hw/) 
-### Сайт на angular. Без адаптива 
+## [Сайт](https://priesths.github.io/cars-hw/) на angular. Без адаптива 
